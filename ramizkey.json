@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nodal-cogency-267416",
+  "private_key_id": "0caf0533ed7af10a8449ccee15b85fbd98c19ac2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDf5q7o4csbmZdf\nDEOU0uFp7KStHuvO0h0oG2BtVuhwQ8nVuBBhZimACRLDgkt5+gT/CNg15+ox37LI\ndFF/wxya02lcteve9F544tKqFzNe8AU1jbf/UOs9NVk1g78mX2rFkw3nQEQTWyBl\nXj7uwjllnJLzsQfwI3txdZWKK6nhShQhWToLW5FjFLF55HG2JTra/13vXF4n+WIG\ngjjSD7aIpQMhQss6FSL+YtDUHJlt/TtKPFKa5MrE+Lbj8WOpIzuH6TLJnFoX1ni7\n9Z6jG40l9dmEOwLDjIkxaj+vVNQlUe+Ad4rV9ZX0jgMiUVCkoSCFy94j0W8XDn+N\nbhquBbkPAgMBAAECggEABsMgKTxt4UmEPtn5+IwImXsM24WsODTfAzprG8zyJuHa\nk1qEdCHybZbYkDsRLdU/7WFGVmpzXPTqoLnn9DnfqqAT9eQwrtfROp7EdLVQAeAH\nPZTS0nfj2EISOFbgS7e6BnmTLpbMTOFbBcoQ5dkhLqZ0nGjjr9GtMBdjCtHtcYu4\nDz9lhUZ/9w354sZMpRyAYBt60MwmKddgmtBX1tRgGbKOeLLlC/JDhMIBDOG/KoER\n9gs7ZcclGlOWiJNvMOVBzL61eDOU7gWeYpJWFxEZt3CVLw0EsfIXTY4rZ/Wm7yY0\no/lSFVtfXhxyGjoakgJY2XLLOW1pIyE7M6sIEcscUQKBgQD+BtTnVJREm5jnyOh2\nZd0gqRTTYRQ6ELZCN0A1qtgRnAS7DqKyOL8mthXUzCfLdzj5fHTGf+BrfsGXbauu\nkxZ/MkRu5iwtXDz8bBRb1YuMMk+SMUndF2UjA76DZEWFmQLcTPUCWHdcLtcluPy3\nY8ZwQWqw4/N4G8lBX+G22Oh7qwKBgQDho/FMKQXpKVsSzHdFdN1sSbuaIGS6udq8\nMh7ruJBVws7+RlsQnnCGilL1cx3BQao+TAevJ4khQtl1UfncMHZxZ8VqnV/RePak\nNZMOXpw7g7EP7dxmY3OL0WSP9QsjgTYCy51XbVpvYmh1mLonbDFRtJqD4FWoRmkR\nvge5hNv0LQKBgQD2mKMtPgoA4Bt7RqmD5jbXccvptx/vjjGf7grDDmpaDd75x6dg\n432Mks52mQk4lzAT4SFrYM/3CkHcQnabLeZ069NK5N6V2ijJ0hGhZJfnLR/Zh0dw\n/TkM2KGk4z4qBvOj8IEYGdElB8OLtxx82rrUVmy/80lym2avs+hlnANzqQKBgHw4\ntW8oZoimq+z9g+xJGl2zegSwMMRb7YAOV9eOFGgih7KVKS1NDMYFAQcACTGL5R3G\n3bQgH+6fzvg32UbPp2Vnq9e2LDo2ThK5K+yNSZW6OpB6cwwrVEF1VderICa7y/Be\nCJFJMrB/jOKw4ksx1TUWKLrRlla97LpH1Bjee/lBAoGAH4foQl78tIGrqbFczEpD\nSZpy0Lfd70TX6+xHA9go3kDT0/2/om3pzV1quzGqouxlkjg8vGnB1mlN6vxEf4Ls\nepQ5/kiEmNx+ZyGGypF1DAL0nt+j8GS/sRC4KnzHiXZVAGZOPUVUtwK2kxMQ64LM\ndqgcHb8ZA6FMEXt9z4BoVRA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "googlevision@nodal-cogency-267416.iam.gserviceaccount.com",
+  "client_id": "104160483800812449926",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlevision%40nodal-cogency-267416.iam.gserviceaccount.com"
+}
